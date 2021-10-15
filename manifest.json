@@ -3,7 +3,7 @@
     "short_name": "#Practica1",
     "description": "Esta es una página PWA",
     "background_color": "#2B2B2B",
-    "theme_color": "#F0DB4F",
+    "theme_color": "#0277bd",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
